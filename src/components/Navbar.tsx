@@ -1,9 +1,9 @@
 
 import React from 'react'
 import Link from 'next/link';
-import Image from 'next/image';
+
 import { AiOutlineCloudDownload } from 'react-icons/ai';
-import { div } from 'framer-motion/client';
+
 
 const Navbar = () => {
   return (

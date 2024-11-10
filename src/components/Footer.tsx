@@ -1,6 +1,6 @@
-import Link from 'next/link';
+
 import React from 'react';
-import { SiFacebook, SiFiverr, SiGithub, SiInstagram, SiLinkedin, SiUpwork, SiYoutube } from 'react-icons/si';
+
 
 const Footer = () => {
   return (
